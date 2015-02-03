@@ -599,17 +599,17 @@ window.__imported__["Todo/layers.json.js"] = [
                           "path" : "images\/Text2-E3648749-52D9-4B19-B1D5-4E5853BFD0B6.png",
                           "frame" : {
                             "y" : 418,
-                            "x" : 311,
-                            "width" : 143,
-                            "height" : 14
+                            "x" : 310,
+                            "width" : 180,
+                            "height" : 15
                           }
                         },
                         "imageType" : "png",
                         "layerFrame" : {
                           "y" : 418,
-                          "x" : 311,
-                          "width" : 143,
-                          "height" : 14
+                          "x" : 310,
+                          "width" : 180,
+                          "height" : 15
                         },
                         "name" : "Text2"
                       },
@@ -749,7 +749,7 @@ window.__imported__["Todo/layers.json.js"] = [
                           "frame" : {
                             "y" : 486,
                             "x" : 310,
-                            "width" : 147,
+                            "width" : 170,
                             "height" : 14
                           }
                         },
@@ -757,7 +757,7 @@ window.__imported__["Todo/layers.json.js"] = [
                         "layerFrame" : {
                           "y" : 486,
                           "x" : 310,
-                          "width" : 147,
+                          "width" : 170,
                           "height" : 14
                         },
                         "name" : "Text3"
@@ -897,16 +897,16 @@ window.__imported__["Todo/layers.json.js"] = [
                           "path" : "images\/Text4-6424746A-000B-4E01-83B3-382FE380C159.png",
                           "frame" : {
                             "y" : 554,
-                            "x" : 310,
-                            "width" : 120,
+                            "x" : 311,
+                            "width" : 171,
                             "height" : 14
                           }
                         },
                         "imageType" : "png",
                         "layerFrame" : {
                           "y" : 554,
-                          "x" : 310,
-                          "width" : 120,
+                          "x" : 311,
+                          "width" : 171,
                           "height" : 14
                         },
                         "name" : "Text4"
@@ -1047,7 +1047,7 @@ window.__imported__["Todo/layers.json.js"] = [
                           "frame" : {
                             "y" : 619,
                             "x" : 310,
-                            "width" : 120,
+                            "width" : 194,
                             "height" : 14
                           }
                         },
@@ -1055,7 +1055,7 @@ window.__imported__["Todo/layers.json.js"] = [
                         "layerFrame" : {
                           "y" : 619,
                           "x" : 310,
-                          "width" : 120,
+                          "width" : 194,
                           "height" : 14
                         },
                         "name" : "Text5"

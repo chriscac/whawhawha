@@ -1,7 +1,8 @@
 CACHE MANIFEST
-# 1422441791.090797
+# 1422937497.607083
 CACHE:
 /_server/server.js
+../.DS_Store
 ../.temp (Chris Cacioppe's conflicted copy 2015-01-09).html
 ../.temp.html
 ../app.coffee
@@ -32,6 +33,7 @@ CACHE:
 ../framer/style.css
 ../framer/version
 ../images/framer-icon.png
+../imported/.DS_Store
 ../imported/setupweb_NearTermDash_ToDoWidget/images/Arrow-DDD04FBC-44CF-417D-8337-84448D110776.png
 ../imported/setupweb_NearTermDash_ToDoWidget/images/Arrow2-8BB46916-5340-42C7-B001-635279A5B06F.png
 ../imported/setupweb_NearTermDash_ToDoWidget/images/Arrow3-EA58AA15-EF82-456C-9BFB-F1325FB1CCA6.png
